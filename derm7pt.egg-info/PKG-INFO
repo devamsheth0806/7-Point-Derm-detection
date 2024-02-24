@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: derm7pt
+Version: 0.0.1
+Summary: Dermatology dataset for 7 point criteria
+Home-page: https://github.com/jeremykawahara/derm7pt
+Author: Jeremy Kawahara
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: sklearn
+Requires-Dist: pandas
+Requires-Dist: keras
+Requires-Dist: Pillow
